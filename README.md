@@ -16,4 +16,6 @@ This is a simple To-Do List project that allows users to add, delete, and update
 - Python:  3.11.2
 - HTML
 - CSS
+
+  
 Referencing : Dennis Ivy (Django tutorial)
