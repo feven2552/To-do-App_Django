@@ -1,7 +1,3 @@
-Absolutely! Here's a nicely formatted README for your To-Do List project using Django:
-
----
-
 # 📝 To-Do List Project
 
 Welcome to the To-Do List Project! This is a simple yet effective web application that allows users to manage their tasks effortlessly.
@@ -19,9 +15,10 @@ Welcome to the To-Do List Project! This is a simple yet effective web applicatio
 - HTML
 - CSS
 
-## 📷 Screenshots
+## 📷 Screenshots![Capture](https://github.com/feven2552/To-do-App_Django/assets/93426602/53211cb9-9346-45e5-ac2e-8a861c6ef69f)
 
-![Screenshot](https://raw.githubusercontent.com/your-username/your-repository/master/path/to/screenshot.png)
+
+(https://github.com/feven2552/To-do-App_Django/assets/93426602/53211cb9-9346-45e5-ac2e-8a861c6ef69f))
 *Screenshot of the To-Do List Project*
 
 ## 🏷️ Referencing
@@ -51,15 +48,3 @@ This project was created with inspiration from Dennis Ivy's Django tutorial.
 
 Contributions are welcome! If you find any bugs 🐛 or have suggestions for improvements, feel free to open an issue or create a pull request.
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-In this template:
-- Replace `https://raw.githubusercontent.com/your-username/your-repository/master/path/to/screenshot.png` with the actual URL of your hosted screenshot image.
-- Replace `your-username` with your GitHub username.
-- Replace `your-repository` with the name of your GitHub repository.
-
-Feel free to customize this template further according to your preferences. If you have any more questions or need further assistance, feel free to ask!
