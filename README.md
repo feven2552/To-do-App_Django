@@ -15,10 +15,10 @@ Welcome to the To-Do List Project! This is a simple yet effective web applicatio
 - HTML
 - CSS
 
-## 📷 Screenshots![Capture](https://github.com/feven2552/To-do-App_Django/assets/93426602/53211cb9-9346-45e5-ac2e-8a861c6ef69f)
+## 📷 Screenshots
 
 
-(https://github.com/feven2552/To-do-App_Django/assets/93426602/53211cb9-9346-45e5-ac2e-8a861c6ef69f))
+![Capture](https://github.com/feven2552/To-do-App_Django/assets/93426602/53211cb9-9346-45e5-ac2e-8a861c6ef69f)
 *Screenshot of the To-Do List Project*
 
 ## 🏷️ Referencing
